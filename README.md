@@ -1,2 +1,1 @@
-# ISS-Tracker-1-Boilerplate
-Student boilerplate code C76
+# ISS-Tracker-1-Student boilerplate code C76
